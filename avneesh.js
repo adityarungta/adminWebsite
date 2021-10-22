@@ -2,7 +2,7 @@ student = {
     firstName: 'Avneesh',
     lastName: 'Singh',
 
-    studentAge: 20,
+    studentAge: 210,
     enrollmentNo: 'A2305218457',
 
     studentInfo: function(){
