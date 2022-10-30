@@ -2,6 +2,7 @@ student = {
     firstName: 'Avneesh',
     lastName: 'Singh',
     MiddleName: 'yadav',
+    AddName : 'Chotu',
 
     studentAge: 210,
     enrollmentNo: 'A2305218462',
